@@ -1,1 +1,0 @@
-void can_transceiver(void);
